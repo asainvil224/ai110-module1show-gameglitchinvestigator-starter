@@ -30,6 +30,8 @@ The game's purpose was to generate a secret key that the user had to guess. The 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+      
+<img width="706" height="579" alt="Screenshot" src="https://github.com/user-attachments/assets/4d0d0557-2d5a-4e51-b49f-06f0f7b77586" />
 
 
 ## 🚀 Stretch Features
